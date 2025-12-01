@@ -17,5 +17,6 @@ This dashboard is designed for fleet owners, drivers, and administrators, provid
 
 ## 📁 Dashboard Preview
 
-![Taxi Dashboard](assets/TaxiDashboard.PNG)
+![Taxi Dashboard](src/assets/TaxiDashboard.PNG)
+
 
